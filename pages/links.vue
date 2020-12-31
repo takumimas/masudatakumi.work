@@ -24,7 +24,7 @@
     <div style="height:94vh;background-color:#F14668;" class="top">
       <div style="text-align:center;">
       <h1 style="color:white;font-size:2.8rem;font-weight:bolder;">
-        About
+        Links
       </h1>
       <h2 class="about-contents" style="color:white;">Twitter:<a href="https://twitter.com/masuda_ta" style="color:white;">@masuda_ta</a></h2>
       <h2 class="about-contents" style="color:white;">Github:<a href="https://github.com/takumimas" style="color:white;">takumimas</a></h2>
