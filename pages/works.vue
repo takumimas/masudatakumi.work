@@ -60,7 +60,17 @@
                 </div>
             </section>
         </b-carousel-item>
-                        <b-carousel-item>
+            <b-carousel-item>
+            <section class="hero is-medium is-info">
+                <div class="hero-body has-text-centered">
+                    <h1 class="title">複式家計簿</h1>
+                    <p>複式簿記で家計簿をつけることができるWebアプリです</p>
+                    <p>Nuxt.jsとFirebaseで開発しました</p>
+                    <p><a href="https://fukushiki-kakeibo.com/" style="border-bottom:solid white 1px;">アクセスはこちら</a></p>
+                </div>
+            </section>
+        </b-carousel-item>
+    <b-carousel-item>
             <section class="hero is-medium is-danger">
                 <div class="hero-body has-text-centered">
                     <h1 class="title">Comming Soon..</h1>

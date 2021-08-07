@@ -26,6 +26,7 @@
       <h1 style="color:white;font-size:2.8rem;font-weight:bolder;">
         Links
       </h1>
+      <h2 class="about-contents" style="color:white;"><a href="https://twitter.com/takumi_mas" style="color:white;">Twitter</a></h2>
       <h2 class="about-contents" style="color:white;"><a href="https://www.wantedly.com/id/takumimas" style="color:white;">Wantedly</a></h2>
       <h2 class="about-contents" style="color:white;">Github:<a href="https://github.com/takumimas" style="color:white;">takumimas</a></h2>
       <h2 class="about-contents" style="color:white;">Blog:<a href="https://masublog.net" style="color:white;">MasuBlog</a></h2>
